@@ -2,21 +2,20 @@
 > Repo meant to be cloned for our GraphQL microservices
 
 ### Usage
- + clone the repo and name it
-```bash
-git clone https://github.com/hyperfuse/micro-graphql.git [name]
-```
++ Clone the repository
+  ```bash
+  git clone https://github.com/hyperfuse/micro-graphql.git
+  ```
 
-+ install dependencies
-```bash
- yarn
-```
++ Install the dependencies
+  ```bash
+  yarn
+  ```
 
-+ start microservice
-```bash
- yarn start
-```
-
++ Start the microservice
+  ```bash
+  yarn start
+  ```
 
 + Make it your own!
 
